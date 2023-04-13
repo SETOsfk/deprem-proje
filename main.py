@@ -1,6 +1,11 @@
 
 
 
+#program çalışmayı durdurduğunda
+#bütün kayıtlı liste öğeleri siliniyor
+#her kullanıcı tekrar üye olmak zorunda kalıyor
+#nasıl çözeceğimi bulamadım
+
 
 kullanici=[]
 admin=[]
